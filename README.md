@@ -1,14 +1,11 @@
 <div align="center">
 
-<a href='https://www.linkpicture.com/view.php?img=LPic62169991d23e711584403'><img src='https://telegra.ph/file/11e741582367e0d63c66f.jpg' type='image'></a>
+<a href='https://www.linkpicture.com/view.php?img=LPic624ee0719082f1592522799'><img src='https://www.linkpicture.com/q/WhatsApp-Image-2022-04-07-at-5.59.37-PM.jpeg' type='image'></a>
 
 
 
-# **🅴🅻🅰🅸🅽🅰: A WhatsApp BOT WITH RICH CREATION FEATURES**
+# **🅺🆄🆁🆄🅼🅸 🆃🅾🅺🅸🆂🅰🅺🅸: A WhatsApp BOT WITH RICH CREATION FEATURES**
 
-
-
-[![CodeFactor](https://www.codefactor.io/repository/github/shineiichijo/chitoge/badge)](https://www.codefactor.io/repository/github/shineiichijo/chitoge)
 
 > A Fully Modular and Whatsapp Efficient Bot <br>
 
@@ -16,16 +13,7 @@
 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/union-vines/Savage)
-
-
-
-Button : If you are deploying from a fork
-
-
-
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
-
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/Eximinati/tokisaki-kurumi)
 
 
 Button : If you are deploying and using Railway
@@ -38,7 +26,7 @@ Button : If you are deploying and using Railway
 <br/>
 
 ## ✨ Highlights
-## [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Gy1JemBGs9wLjVEfzbRJ21) [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
+## [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/FXDZOyXwdsK4vuOLPGZKpX) [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
 
 
 -   Fully Modular Design
@@ -61,7 +49,7 @@ Button : If you are deploying and using Railway
 
 -   Section Moved to
 
-    [Lumine-Guides](https://github.com/Elaina-Lord/Savage-guides/blob/main/README.md)
+    [Lumine-Guides](https://github.com/Eximinati/tokisaki-kurumi/blob/main/README.md)
 
 
 
@@ -71,7 +59,7 @@ Button : If you are deploying and using Railway
 
 -   To view all features, click
 
-    here➡️[Elaina-_featuresList.md](https://github.com/Elaina-blob/main/Features.md)
+    here➡️[𝕂𝕦𝕣𝕦𝕞𝕚 𝕗𝕖𝕒𝕥𝕦𝕣𝕖𝕝𝕚𝕤𝕥.𝕞𝕕](https://github.com/Elaina-blob/main/Features.md)
 
 
 
@@ -114,7 +102,7 @@ This is a lovely project by Lord Savage 🕊️. After forking give it a star. �
 HOW TO REACH THE OWNER? 👇👇👇
 
    https://wa.me/263716564623?text=Hi%20I%20Am%20From%20GitHub%20
-   <a href="https://wa.me/263716564623?text=Hey_Fam%20I%20Am%20From%20GitHub%20☺️">
+   <a href="https://wa.me/923087880256?text=Hey_Fam%20I%20Am%20From%20GitHub%20☺️">
    <img scr="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
    </a>&nbsp;&nbsp;  
    <a
