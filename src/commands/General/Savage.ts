@@ -8,7 +8,8 @@ import { ISimplifiedMessage } from '../../typings'
 export default class Command extends BaseCommand {
     constructor(client: WAClient, handler: MessageHandler) {
         super(client, handler, {
-            command: 'savage',
+            command: 'aku',
+            alaises: 'AKU', 'bot-owner',
             description: 'Displays info about savage.',
             category: 'general',
             usage: `${client.config.prefix}savage`
