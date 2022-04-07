@@ -9,10 +9,9 @@ export default class Command extends BaseCommand {
     constructor(client: WAClient, handler: MessageHandler) {
         super(client, handler, {
             command: 'aku',
-            alaises: 'AKU', 'bot-owner',
-            description: 'Displays info about savage.',
+            description: 'Displays info about aku.',
             category: 'general',
-            usage: `${client.config.prefix}savage`
+            usage: `${client.config.prefix}aku`
         })
     }
 
