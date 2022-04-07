@@ -31,7 +31,7 @@ export default class Command extends BaseCommand {
         } catch (err) {
             M.reply(`Profile Picture not Accessible of ${username}`)
             pfp =
-                'https://wallpaperaccess.com/full/5304840.png'
+                'https://wallpapercave.com/uwp/uwp2280047.jpeg'
         }
         await M.reply(
             await request.buffer(
