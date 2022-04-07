@@ -56,7 +56,7 @@ export default class Command extends BaseCommand {
 
             )
 
-            return void M.reply('📪Sent you the Group Link in personal message.')
+            return void M.reply('📪Sent you the Group Link in private, dont use it for bad purpose😏.')
 
         } else {
 
