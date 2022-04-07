@@ -29,12 +29,13 @@ export default class Command extends BaseCommand {
 			return void (await M.reply(`Please provide the Broadcast Message.`));
 		const term = joined.trim();
 		const images = [
-			"https://telegra.ph/file/a035a5447e04da6a771ed.jpg",
-			"https://telegra.ph/file/a4aac6c7a5df508fea9a4.jpg",
-			"https://telegra.ph/file/73c40cc251e52fbd2df0e.jpg",
-			"https://telegra.ph/file/42d4d2932912e24287dc2.jpg",
-			"https://telegra.ph/file/11e741582367e0d63c66f.jpg",
-			"https://telegra.ph/file/8f168610c56290cdcb347.jpg",
+			"https://c.tenor.com/IhiRfFF2eO8AAAPo/anime-kurumi.mp4",
+			"https://c.tenor.com/xtUvNrfMOScAAAPo/kurumi-tokisaki-anime.mp4",
+			"https://c.tenor.com/4Z5XJh3m3S0AAAPo/100.mp4",
+			"https://c.tenor.com/Yoitobm0iaQAAAPo/date-a-live-kurumi.mp4",
+			"https://c.tenor.com/v3WTdkIo1kkAAAPo/kurumi.mp4",
+			"https://c.tenor.com/aflCuh8Hk_EAAAPo/kurumi-wedding-dress.mp4",
+			"https://c.tenor.com/npZTSqG9iwMAAAPo/kurumi.mp4",
 		];
 		const selected = images[Math.floor(Math.random() * images.length)];
 		// eslint-disable-next-line @typescript-eslint/no-explicit-any
@@ -45,7 +46,7 @@ export default class Command extends BaseCommand {
 			.map((jids) => (jids.includes("g.us") ? jids : null))
 			.filter((v) => v);
 		for (let i = 0; i < chats.length; i++) {
-			const text = `*💙「 ELAINA BROADCAST 」💙*\n\n${term}\n\n Regards ~ *${M.sender.username}*`;
+			const text = `*💙「▁ ▂ ▄ ▅ ▆ ▇ █ k̳̿͟͞u̳̿͟͞r̳̿͟͞u̳̿͟͞m̳̿͟͞i̳̿͟͞ ̳̿͟͞b̳̿͟͞r̳̿͟͞o̳̿͟͞a̳̿͟͞d̳̿͟͞c̳̿͟͞a̳̿͟͞s̳̿͟͞t̳̿͟͞ █ ▇ ▆ ▅ ▄ ▂ ▁ 」💙*\n\n${term}\n\n Regards ~ *${M.sender.username}*`;
 			this.client.sendMessage(chats[i], { url: selected }, MessageType.image, {
 				caption: `${text}`,
 				contextInfo: {
